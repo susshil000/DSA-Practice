@@ -1,6 +1,6 @@
 # 📌 DSA-Practice
 
-This repository contains my *DSA problem solutions in C++*.  
+This repository contains my *DSA problem solutions in C*.  
 I am uploading my daily practice codes here.
 
 ---
